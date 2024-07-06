@@ -1,0 +1,18 @@
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\Nouran\Source\Repos\nancyibrahim22\NewSecurityPackage2024\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\Nouran\OneDrive\Desktop\FCIS\Fcis 4th year\2nd Semester\Cyber Security\SecurityPackage\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
